@@ -4,6 +4,12 @@
 
 This project focuses on building an Artificial Neural Network (ANN) for customer churn classification and deploying the model using Streamlit for a user-friendly interface. Customer churn prediction is a vital task for businesses to identify and retain at-risk customers by analyzing their demographic and behavioral data.
 
+## Live Demo
+
+You can try the deployed application here:  
+👉 [Streamlit App](https://ann-classification-churn-mwvirqtg3swf7s3nseeo6j.streamlit.app/)
+
+
 ## Project Structure
 
 ```
