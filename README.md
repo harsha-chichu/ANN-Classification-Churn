@@ -77,23 +77,6 @@ The ANN model consists of:
 - **Hidden Layers:** Two dense layers with ReLU activation functions.
 - **Output Layer:** A single neuron with a sigmoid activation function for binary classification.
 
-## Results
-
-- **Accuracy:** [Include accuracy metric here]
-- **Precision:** [Include precision metric here]
-- **Recall:** [Include recall metric here]
-- **F1 Score:** [Include F1 score here]
-
-Detailed results and visualizations can be found in the `experiments.ipynb` and `prediction.ipynb` notebooks.
-
-## Technologies Used
-
-- **Python:** Programming language
-- **TensorFlow/Keras:** For building and training the ANN
-- **Pandas and NumPy:** For data manipulation
-- **Matplotlib and Seaborn:** For visualizations
-- **Streamlit:** For deploying the web application
-
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
